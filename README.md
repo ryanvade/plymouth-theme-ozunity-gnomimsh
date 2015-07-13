@@ -1,1 +1,1 @@
-# plymouth-theme-ozunity-gnomimsh
+# plymouth-theme-ozunity-gnomish

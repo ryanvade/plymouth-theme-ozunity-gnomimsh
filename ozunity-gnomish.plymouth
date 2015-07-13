@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=GNOME Logo
+Description=A theme that features a blue blinds animated background. Ozified
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/ozunity-gnomish
+ScriptFile=/usr/share/plymouth/themes/ozunity-gnomish/ozunity-gnomish.script
